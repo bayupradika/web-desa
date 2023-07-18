@@ -50,4 +50,13 @@ footer{
     width: 80vw;
     text-align: center;
   }
+
+  .carousel .slide{
+    width: 100vw;
+    height: auto;
+  }
+  .carousel-item img{
+    width: 100vw;
+    height: auto;
+  }
 }
